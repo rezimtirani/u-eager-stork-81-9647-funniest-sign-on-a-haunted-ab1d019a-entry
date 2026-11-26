@@ -1,2 +1,7 @@
-# u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a-entry
-Funniest Sign on a Haunted Server Room Door — entry for make.fun bounty
+# Funniest Sign on a Haunted Server Room Door — make.fun entry
+
+[![make.fun · u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a](https://make.fun/badge/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a)
+[![rank](https://make.fun/badge/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a/rezimtirani/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a-entry/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a)
+[![reward](https://make.fun/badge/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a/rezimtirani/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a-entry/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-sign-on-a-haunted-ab1d019a)
+
+One line, taped to the door of a haunted server room: a warning not to knock, because the ghosts in rack 7 answer back, bill by the hour, and already know your password. `main.py` writes that single line to `entry.txt` (106 characters, inside the sealed 120-character gate from the kit's RULES.txt).
